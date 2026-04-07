@@ -73,30 +73,24 @@
 
 ```
 anvil:hammer | default:wood | default:steel_ingot
-" +
-"default:wood | boats:boat   | default:wood
-" +
-"default:mese_crystal | default:wood | screwdriver:screwdriver
+default:wood | boats:boat   | default:wood
+default:mese_crystal | default:wood | screwdriver:screwdriver
 ```
 
 ### Helm (`plutoniumships:barre`)
 
 ```
 default:wood | repair_kit | default:wood
-" +
-"mesecons_materials:glue | mesecons_powerplant:power_plant | mesecons_materials:glue
-" +
-"default:wood | default:wood | default:wood
+mesecons_materials:glue | mesecons_powerplant:power_plant | mesecons_materials:glue
+default:wood | default:wood | default:wood
 ```
 
 ### Balloon (`plutoniumships:ballon`)
 
 ```
 xdecor:rope | wool:white | xdecor:rope
-" +
-"wool:white | default:mese_crystal | wool:white
-" +
-"xdecor:rope | wool:white | xdecor:rope
+wool:white | default:mese_crystal | wool:white
+xdecor:rope | wool:white | xdecor:rope
 ```
 
 ---
